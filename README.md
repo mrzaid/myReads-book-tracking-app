@@ -10,4 +10,4 @@
 # Built With REACT.JS REDUX BOOTSTRAP CSS HTML JSX MATERIAL-UI
 
 # Author Muhammad Zaid Ahmed
-# LIVE DEMO AT myREADS-app.surge.sh
+# LIVE DEMO AT myREADS-application.surge.sh

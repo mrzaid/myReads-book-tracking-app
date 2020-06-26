@@ -37,4 +37,4 @@ jobs:
     - name: Install Surge
       run: npm install --global surge        
     - name: Deploy to Surge
-      run: surge ./build myREADS-app.surge.sh --token ${{secrets.MYREADS_TOKEN}}
+      run: surge ./build myREADS-application.surge.sh --token ${{secrets.MYREADS_TOKEN}}
